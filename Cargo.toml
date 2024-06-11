@@ -1,2 +1,3 @@
 [workspace]
-members = ["lessons/*/*"]
+members = ["lessons/*/"]
+resolver = "1"
