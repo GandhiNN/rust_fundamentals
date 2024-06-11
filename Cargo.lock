@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rust_fundamentals"
+name = "creating_struct_instances"
 version = "0.1.0"
