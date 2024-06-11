@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "creating_struct_instances"
+name = "create_struct_instances"
 version = "0.1.0"
